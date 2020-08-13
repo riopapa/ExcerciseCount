@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.urrecliner.healtycount.MainActivity">
+
+    <item
+        android:id="@+id/action_delete"
+        android:orderInCategory="100"
+        android:title="none"
+        android:icon="@mipmap/i_delete"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/acton_edit"
+        android:orderInCategory="100"
+        android:title="2/3"
+        android:icon="@mipmap/editing"
+        app:showAsAction="always" />
+
+</menu>
+    <!--app:showAsAction="ifRoom"-->

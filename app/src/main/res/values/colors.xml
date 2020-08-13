@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="cardBack">#BCE954</color>
+    <color name="cardRun">#8FBC8F</color>
+
+    <color name="nameFore">#000000</color>
+    <color name="nameBack">#32CD32</color>
+
+    <color name="countBack">#7FFF00</color>
+    <color name="countFore">#000080</color>
+    <color name="help">#cccc00</color>
+    <color name="wheelBack">#6AA121</color>
+
+</resources>
